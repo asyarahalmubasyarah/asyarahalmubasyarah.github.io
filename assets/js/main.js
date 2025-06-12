@@ -4,6 +4,8 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+document.getElementById("year").textContent = new Date().getFullYear();
+
 (function($) {
 
 	skel.breakpoints({
