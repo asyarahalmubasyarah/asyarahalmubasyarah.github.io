@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /
+
+Allow: /index.html
+Allow: /introduction.html
+Allow: /objective.html
+Allow: /missionandvision.html
+Allow: /logoandcolor.html
+Allow: /organization.html
+Allow: /activities.html
+Allow: /donateandsupport.html
+Allow: /contactus.html
+
+Sitemap: https://www.asyarahmubasyarah.org/sitemap.xml
